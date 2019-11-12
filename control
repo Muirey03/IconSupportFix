@@ -1,0 +1,9 @@
+Package: com.muirey03.iconsupportfix
+Name: IconSupportFix
+Depends: mobilesubstrate, com.chpwn.iconsupport
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A quick patch for IconSupport on iOS 13
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
